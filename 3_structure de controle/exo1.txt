@@ -1,0 +1,15 @@
+1) Ecrivez un script qui permet d'indiquer le jour de la semaine à l'aide
+    de la Date d'aujourd'hui:
+
+    "Bonjour, nous sommes vendredi!" si on est effectivement un vendredi
+
+2) Ecrivez un script qui permet d'ecrire un triangle rectangle en '*'
+    d'une hauteur/base d'une taille demandé à l'utilisateur.
+
+    taille fourni : 5
+
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
