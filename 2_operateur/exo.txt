@@ -1,0 +1,9 @@
+
+let answer = prompt("Question?"); // string
+console.log(answer); 
+
+Ecrire un programme qui:
+
+ - demande le prix d'un livre (hors tva)
+ - la quantité de livre
+ - calcule et affiche le total TTC avec 21% de TVA.

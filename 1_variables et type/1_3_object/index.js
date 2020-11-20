@@ -11,3 +11,8 @@ o.num_nat = 0;
 o["salut"] = 0;
 
 console.log(o);
+
+// supprimer un propriété
+delete o.salut;
+
+console.log(o); // attention au lazy loading
