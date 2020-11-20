@@ -1,7 +1,8 @@
 1) Ecrivez un script qui permet d'indiquer le jour de la semaine à l'aide
-    de la Date d'aujourd'hui:
+    de la Date (selon le jour de la semaine):
 
-    "Bonjour, nous sommes vendredi!" si on est effectivement un vendredi
+    "Bonjour, nous sommes vendredi!" si on est vendredi;
+    "bonjour, nous sommes lundi!" si on est lundi; 
 
 2) Ecrivez un script qui permet d'ecrire un triangle rectangle en '*'
     d'une hauteur/base d'une taille demandé à l'utilisateur.
