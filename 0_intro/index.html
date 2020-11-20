@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    
+    
+    <h1>Hello world!</h1>
+
+    <!-- ecrire dans les attributs d'événement (déconseillé)-->
+    <button onclick="console.log('deconseillé')">click me!</button>
+
+    <noscript> ce site utilise javascript et le votre est desactivé </noscript>
+
+    <!-- ecrire directement dans la balise script -->
+    <script>
+
+        // commentaire en une ligne
+        /*
+            commentaire en plusieurs
+            lignes
+        */
+
+        // intéragir avec la console de l'interpréteur js du navigateur
+        console.log("hello depuis index.html");
+
+        // créer un popup chez le navigateur du client
+        alert("boo!")
+
+    </script>
+    <!-- faire référence à un script existant -->
+    <script src="./index.js"></script>
+
+</body>
+</html>

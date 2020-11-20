@@ -1,0 +1,10 @@
+Chaine de caractere : "ma formation javascript"
+
+J'aimerai :
+- récupérer la première position de "ma";
+- récupérer l'index de "p";
+- récupérer la lettre situé à l'index 21;
+- remplacer "javascript" par "Java";
+- récupérer un tableau dont les éléments sont les mots de la chaine;
+- récupérer une chaine de caractère inverse à ma chaine
+    -> "tpircsavaj noitamrof am"

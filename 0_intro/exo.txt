@@ -1,0 +1,5 @@
+Créer une page html comprenant un script indiquant à l'utilisateur dans un popup: 
+    "Bienvenu sur mon site"
+
+Sortez ensuite le script écrit afin de le mettre dans son propre fichier .js ensuite
+faites y appel dans la page.
